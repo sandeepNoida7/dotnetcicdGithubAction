@@ -137,3 +137,4 @@ C:\MyWebApi\src\MyWebApi\obj\Debug\net8.0\refint\MyWebApi.dll
 C:\MyWebApi\src\MyWebApi\obj\Debug\net8.0\MyWebApi.pdb
 C:\MyWebApi\src\MyWebApi\obj\Debug\net8.0\MyWebApi.genruntimeconfig.cache
 C:\MyWebApi\src\MyWebApi\obj\Debug\net8.0\ref\MyWebApi.dll
+C:\MyWebApi\src\MyWebApi\obj\Debug\net8.0\MyWebApi.sourcelink.json
